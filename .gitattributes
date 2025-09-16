@@ -1,0 +1,3 @@
+Pipeline_models/Best_version_2.pt filter=lfs diff=lfs merge=lfs -text
+Pipeline_models/best_version_3.pt filter=lfs diff=lfs merge=lfs -text
+Pipeline_models/Best_version.pt filter=lfs diff=lfs merge=lfs -text
